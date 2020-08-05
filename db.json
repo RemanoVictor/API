@@ -1,0 +1,11 @@
+{
+  "data": {
+    "labels": ["red", "blue", "orange"],
+    "datasets": [
+      {
+        "data": [200, 50, 100],
+        "backgroundColor": ["#F53535", "#676767", "#787878"]
+      }
+    ]
+  }
+}
